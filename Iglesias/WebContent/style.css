@@ -1,0 +1,48 @@
+@charset "UTF-8";
+body#fondo{
+	 background-color: lightgrey;
+	 font-family: sans-serif;
+	 
+}
+header#titulop{
+	text-align: right;
+	color: darkblue;
+	letter-spacing: 25px;
+	font-weight: bold;
+	
+}
+h2.fondoart{
+	background-color: darkolivegreen;
+	color: white;
+	clear: both;
+}
+
+img.fotoizq{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+span.negrita{
+	font-weight: bold;
+	font-style: oblique;	
+}
+p.centro{
+	text-align: center;
+}
+img.fotoder{
+	float: right;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+p.fin{
+	clear: both;
+	font-style: oblique;
+}
+p#autor{
+	text-align: center;
+	font-size: smaller;
+}
+footer#finop{
+	background-color: white;
+}
